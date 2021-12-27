@@ -2,27 +2,27 @@ const axios = require('axios')
 
 // prolly foolish, stay 
 const indexedChannel = {
-	0: 'channel', // the fool
-	1: 'channel', // the fool
-	2: 'channel', // the fool
-	3: 'channel', // the fool
-	4: 'channel', // the fool
-	5: 'channel', // the fool
+	0: '1350195', // the fool
+	1: '1350088', // the fool
+	2: '1350137', // the fool
+	3: '1350154', // the fool
+	4: '1350160', // the fool
+	5: '1349914', // the fool
 	6: '1349976', // the fool
-	7: 'channel', // the fool
-	8: 'channel', // the fool
-	9: 'channel', // the fool
-	10: 'channel', // the fool
-	11: 'channel', // the fool
-	12: 'channel', // the fool
-	13: 'channel', // the fool
-	14: 'channel', // the fool
-	15: 'channel', // the fool
-	16: 'channel', // the fool
-	17: 'channel', // the fool
-	18: 'channel', // the fool
-	19: 'channel', // the fool
-	20: 'channel', // the fool
+	7: '1350219', // the fool
+	8: '1349919', // the fool
+	9: '1349933', // the fool
+	10: '1351420', // the fool
+	11: '1350219', // the fool
+	12: '664944', // the fool
+	13: '1350267', // the fool
+	14: '1349979', // the fool
+	15: '1350090', // the fool
+	16: '1350283', // the fool
+	17: '1349920', // the fool
+	18: '1351541', // the fool
+	19: '1349978', // the fool
+	20: '1349975', // the fool
 	21: '1347580' // the world
 }
 

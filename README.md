@@ -7,6 +7,28 @@ on pull direction from tri-fold decision matrix, assembled tarot recommenders to
 
 turning archetypal trends into storytelling resolution for possible verkle tracing
 
+# example
+
+Terminal
+```
+Choose your major arcana tarot card
+Let the portals take you..
+
+ 0. The Fool 
+ 1. The Magician <
+ 2. The High Priestess
+ 3. The Empress
+ 4. The Emperor
+ 5. The Heirophant
+ 6. The Lovers
+ ...
+
+```
+
+### Sampling
+Lets try an example. If I pulled a hanged man tarot, here is a randomly selected NFT from NFT Ports AI. I think it’s working.
+![hanged_man](https://storage.googleapis.com/sentinel-nft/raw-assets/189bece9bbca84db8bd169ca81ec4763062b392a803f87a8e4a5d4b1beb34c30.jpeg)
+
 # non-NPC story
 TODO
 
