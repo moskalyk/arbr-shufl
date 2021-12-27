@@ -7,6 +7,8 @@ on chosen tarot pull direction from tri-fold decision matrix, assembled tarot NF
 
 turning archetypal trends into storytelling resolution for possible verkle tracing
 
+![shift](./shift.png)
+
 # example
 
 Terminal
