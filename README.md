@@ -3,7 +3,7 @@ NFT recommender mixhop similiarity shuffle against major arcana tarot pulls, pul
 
 magicians curation practice embedded into reed oracular tarot pulls
 
-on pull direction from tri-fold decision matrix, assembled tarot recommenders to be attached to tree totems out in nature using arbr during walks to help further realize the future the querent seeks upon uniswap trade or liqudity provision from creative inspiration
+on chosen tarot pull direction from tri-fold decision matrix, assembled tarot NFT recommendations to be attached to tree totems out in nature using arbr (geocached logins) during walks to help further realize the future the querent seeks based upon the decision of the uniswap trade (or liquidity provision) for life inspiration & wallet identity.
 
 turning archetypal trends into storytelling resolution for possible verkle tracing
 
