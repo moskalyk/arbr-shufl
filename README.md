@@ -27,7 +27,7 @@ Let the portals take you..
 
 ### Sampling
 Lets try an example. If I pulled a hanged man tarot, here is a randomly selected NFT from NFT Ports AI. I think it’s working.
-![hanged_man](https://storage.googleapis.com/sentinel-nft/raw-assets/189bece9bbca84db8bd169ca81ec4763062b392a803f87a8e4a5d4b1beb34c30.jpeg)
+![hanged_man](https://storage.googleapis.com/sentinel-nft/raw-assets/826ba7bd6e5b4cfb2a68b82c96bf3342685580080f3b9c3fd930a844da4b8a57.jpeg)
 
 # non-NPC story
 TODO
