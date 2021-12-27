@@ -12,4 +12,4 @@ TODO
 
 # diagram
 replace lottery with tarot
-[diagram](https://developer.algorand.org/docs/imgs/algorand_consensus-1.png)
+![diagram](https://developer.algorand.org/docs/imgs/algorand_consensus-1.png)
