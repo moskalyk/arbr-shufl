@@ -1,5 +1,5 @@
 # arbr-shufl
-NFT recommender mixhop similiarity shuffle against major arcana tarot pulls, pulled from [matter.direct](are.na.com/matter-direct) curation channels
+NFT recommender mixhop similiarity shuffle against major arcana tarot pulls, expanded from [matter.direct](are.na.com/matter-direct) curated channels
 
 magicians curation practice embedded into reed oracular tarot pulls
 
