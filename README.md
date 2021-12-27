@@ -27,10 +27,15 @@ Let the portals take you..
 
 ### Sampling
 Lets try an example. If I pulled a hanged man tarot, here is a randomly selected NFT from NFT Ports AI. I think it’s working.
+
 ![hanged_man](https://storage.googleapis.com/sentinel-nft/raw-assets/826ba7bd6e5b4cfb2a68b82c96bf3342685580080f3b9c3fd930a844da4b8a57.jpeg)
 
 # non-NPC story
-TODO
+1. As a user, set 3 intentios as various paths to choose, then cleanse & shuffle my IRL tarot deck
+2. As a user, I pull 3 cards and patch the directions with the various paths.
+3. As a user, I make a decision on a path, and make a uniswap swap to allocate resources to a direction.
+4. As a user, I go outside to a nearby arbr tree & login.
+5. As a user, I see a drop down of recommended NFTs to purchase with the taste of the tarot card direction I chose.
 
 # diagram
 replace lottery with tarot
