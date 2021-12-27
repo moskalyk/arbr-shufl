@@ -11,7 +11,17 @@ turning archetypal trends into storytelling resolution for possible verkle traci
 
 # example
 
-Terminal
+# non-NPC story
+Opening new browsing web4 portals IRL.
+
+1. As a user, I set 3 intentions for various paths to choose, then cleanse & shuffle my IRL tarot deck
+2. As a user, I pull 3 cards and patch the directions with the various paths.
+3. As a user, I make a decision on a path, and make a uniswap swap to allocate resources to a direction.
+4. As a user, I go outside to a nearby arbr tree & login.
+5. As a user, I see a drop down of recommended NFTs to purchase with the taste of the tarot card direction I chose.
+
+
+### Terminal
 ```
 Choose your major arcana tarot card
 Let the portals take you..
@@ -32,15 +42,8 @@ Lets try an example. If I pulled a hanged man tarot, here is a randomly selected
 
 ![hanged_man](https://storage.googleapis.com/sentinel-nft/raw-assets/826ba7bd6e5b4cfb2a68b82c96bf3342685580080f3b9c3fd930a844da4b8a57.jpeg)
 
-# non-NPC story
-Opening new browsing web4 portals IRL.
-
-1. As a user, I set 3 intentions for various paths to choose, then cleanse & shuffle my IRL tarot deck
-2. As a user, I pull 3 cards and patch the directions with the various paths.
-3. As a user, I make a decision on a path, and make a uniswap swap to allocate resources to a direction.
-4. As a user, I go outside to a nearby arbr tree & login.
-5. As a user, I see a drop down of recommended NFTs to purchase with the taste of the tarot card direction I chose.
 
 # diagram
-replace lottery with tarot
+replace "Run lottery" with "Pull tarot"
+
 ![diagram](https://developer.algorand.org/docs/imgs/algorand_consensus-1.png)
